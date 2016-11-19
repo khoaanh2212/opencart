@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title']       = 'Customer Activity Report';
+$_['heading_title']       = 'Báo cáo hoạt động của khách hàng';
 
 // Text
-$_['text_list']           = 'Customer Activity List';
+$_['text_list']           = 'Danh sách hoạt động của khách hàng';
 $_['text_address_add']    = '<a href="customer_id=%d">%s</a> added a new address.';
 $_['text_address_edit']   = '<a href="customer_id=%d">%s</a> updated their address.';
 $_['text_address_delete'] = '<a href="customer_id=%d">%s</a> deleted one of their address.';
@@ -18,13 +18,13 @@ $_['text_order_account']  = '<a href="customer_id=%d">%s</a> created a <a href="
 $_['text_order_guest']    = '%s created a <a href="order_id=%d">new order</a>.';
 
 // Column
-$_['column_customer']     = 'Customer';
-$_['column_comment']      = 'Comment';
-$_['column_ip']           = 'IP';
-$_['column_date_added']   = 'Date Added';
+$_['column_customer']     = 'Khách hàng';
+$_['column_comment']      = 'Phản hồi';
+$_['column_ip']           = 'Địa chỉ IP';
+$_['column_date_added']   = 'Ngày tạo';
 
 // Entry
-$_['entry_customer']      = 'Customer';
-$_['entry_ip']            = 'IP';
-$_['entry_date_start']    = 'Date Start';
-$_['entry_date_end']      = 'Date End';
+$_['entry_customer']      = 'Khách hàng';
+$_['entry_ip']            = 'Địa chỉ IP';
+$_['entry_date_start']    = 'Ngày bắt đầu';
+$_['entry_date_end']      = 'Ngày kết thúc';

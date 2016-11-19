@@ -3,7 +3,7 @@
 $_['heading_title']  = 'Báo cáo sản phẩm được xem';
 
 // Text
-$_['text_list']        = 'Products Viewed List';
+$_['text_list']        = 'Danh sách sản phẩm được xem';
 $_['text_success']   = 'Thành Công: Bạn đã thiết lập lại các báo cáo sản phẩm được xem!';
 $_['text_success']     = 'Success: You have reset the product viewed report!';
 

@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title']    = 'Marketing Report';
+$_['heading_title']    = 'Báo cáo chiến dịch tiếp thị';
 
 // Text
-$_['text_list']         = 'Marketing List';
-$_['text_all_status']   = 'All Statuses';
+$_['text_list']         = 'Danh sách chiến lược tiếp thị';
+$_['text_all_status']   = 'Tất cả trạng thái';
 
 // Column
-$_['column_campaign']  = 'Campaign Name';
-$_['column_code']      = 'Code';
-$_['column_clicks']    = 'Clicks';
-$_['column_orders']    = 'No. Orders';
-$_['column_total']     = 'Total';
+$_['column_campaign']  = 'Tên chiến dịch';
+$_['column_code']      = 'Mã';
+$_['column_clicks']    = 'Đạt mục tiêu';
+$_['column_orders']    = 'Số lượng đặt hàng';
+$_['column_total']     = 'Tổng cộng';
 
 // Entry
-$_['entry_date_start'] = 'Date Start';
-$_['entry_date_end']   = 'Date End';
-$_['entry_status']     = 'Order Status';
+$_['entry_date_start'] = 'Ngày bắt đầu';
+$_['entry_date_end']   = 'Ngày kết thúc';
+$_['entry_status']     = 'Trạng thái đặt hàng';

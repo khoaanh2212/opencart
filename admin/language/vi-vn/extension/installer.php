@@ -3,6 +3,7 @@
 $_['heading_title']        = 'Cài đặt phần mở rộng';
 
 // Text
+$_['text_upload']          = 'Tải phần mở rộng của bạn';
 $_['text_success']         = 'Hoàn tất: Bạn đã cài đặt phần mở rộng!';
 $_['text_unzip']           = 'Đang giải nén tệp!';
 $_['text_ftp']             = 'Đang sao chép tệp!';

@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title']     = 'Affiliate Activity Report';
+$_['heading_title']     = 'Báo cáo hoạt động của đại lý';
 
 // Text
-$_['text_list']         = 'Affiliate Activity List';
+$_['text_list']         = 'Danh sách hoạt động của đại lý';
 $_['text_edit']         = '<a href="affiliate_id=%d">%s</a> updated their account details.';
 $_['text_forgotten']    = '<a href="affiliate_id=%d">%s</a> requested a new password.';
 $_['text_login']        = '<a href="affiliate_id=%d">%s</a> logged in.';
@@ -12,13 +12,13 @@ $_['text_payment']      = '<a href="affiliate_id=%d">%s</a> updated their paymen
 $_['text_register']     = '<a href="affiliate_id=%d">%s</a> registered for a new account.';
 
 // Column
-$_['column_affiliate']  = 'Affiliate';
-$_['column_comment']    = 'Comment';
-$_['column_ip']         = 'IP';
-$_['column_date_added'] = 'Date Added';
+$_['column_affiliate']  = 'Đại lý';
+$_['column_comment']    = 'Phản hồi';
+$_['column_ip']         = 'Địa chỉ IP';
+$_['column_date_added'] = 'Ngày tạo';
 
 // Entry
-$_['entry_affiliate']   = 'Affiliate';
-$_['entry_ip']          = 'IP';
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
+$_['entry_affiliate']   = 'Đại lý';
+$_['entry_ip']          = 'Địa chỉ IP';
+$_['entry_date_start']  = 'Ngày bắt đầu';
+$_['entry_date_end']    = 'Ngày kết thúc';
