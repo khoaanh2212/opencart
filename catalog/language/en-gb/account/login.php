@@ -7,18 +7,6 @@ $_['text_account']                 = 'Account';
 $_['text_login']                   = 'Login';
 $_['text_new_customer']            = 'New Customer';
 $_['text_register']                = 'Register Account';
-$_['text_newsletter']              = 'Subscribe / unsubscribe to newsletter';
-$_['text_return']                  = 'View your return requests';
-$_['text_reward']                  = 'Your Reward Points';
-$_['text_recurring']               = 'Recurring payments';
-$_['text_transaction']             = 'Your Transactions';
-$_['text_order']                   = 'View your order history';
-$_['text_download']                = 'Downloads';
-$_['text_address']                 = 'Modify your address book entries';
-$_['text_wishlist']                = 'Modify your wish list';
-
-
-
 $_['text_register_account']        = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
 $_['text_returning_customer']      = 'Returning Customer';
 $_['text_i_am_returning_customer'] = 'I am a returning customer';
