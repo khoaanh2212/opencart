@@ -11,14 +11,14 @@ define('HTTPS_CATALOG', 'http://shopping.local/');
 define('DIR_APPLICATION', '/Volumes/DATA/workspace/shopping/admin/');
 define('DIR_SYSTEM', '/Volumes/DATA/workspace/shopping/system/');
 define('DIR_IMAGE', '/Volumes/DATA/workspace/shopping/image/');
-define('DIR_LANGUAGE', '/Volumes/DATA/workspace/shopping/admin/language/');
-define('DIR_TEMPLATE', '/Volumes/DATA/workspace/shopping/admin/view/template/');
-define('DIR_CONFIG', '/Volumes/DATA/workspace/shopping/system/config/');
-define('DIR_CACHE', '/Volumes/DATA/workspace/shopping/system/storage/cache/');
-define('DIR_DOWNLOAD', '/Volumes/DATA/workspace/shopping/system/storage/download/');
-define('DIR_LOGS', '/Volumes/DATA/workspace/shopping/system/storage/logs/');
-define('DIR_MODIFICATION', '/Volumes/DATA/workspace/shopping/system/storage/modification/');
-define('DIR_UPLOAD', '/Volumes/DATA/workspace/shopping/system/storage/upload/');
+define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
+define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
+define('DIR_CONFIG', DIR_SYSTEM . 'config/');
+define('DIR_CACHE', DIR_SYSTEM.'storage/cache/');
+define('DIR_DOWNLOAD', DIR_SYSTEM.'storage/download/');
+define('DIR_LOGS', DIR_SYSTEM.'storage/logs/');
+define('DIR_MODIFICATION', DIR_SYSTEM.'storage/modification/');
+define('DIR_UPLOAD', DIR_SYSTEM.'storage/upload/');
 define('DIR_CATALOG', '/Volumes/DATA/workspace/shopping/catalog/');
 
 // DB
